@@ -1,0 +1,25 @@
+{
+  "name": "vanillajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMchris/vanillajs.git"
+  },
+  "keywords": [
+    "vanilla",
+    "js",
+    "primitive",
+    "native"
+  ],
+  "author": "Kristian Ignatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMchris/vanillajs/issues"
+  },
+  "homepage": "https://github.com/GMchris/vanillajs#readme"
+}
